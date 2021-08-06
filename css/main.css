@@ -1,0 +1,30 @@
+h1 {
+	color: #fe0000;
+}
+.one {
+	color: #fff;
+	background: #0000fe;
+	width: 100px;
+	margin: 0 0 120px 0;
+}
+.two span {
+	color: red;
+}
+h2 {
+	color: white;
+	background: green;
+	padding: 5px;
+}
+h2.big {
+	padding: 50px;
+}
+ul {
+	font-size: 21px;
+}
+li {
+	border: 1px solid black;
+}
+.three {
+	margin: 0 0 20px 90px;
+}
+
